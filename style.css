@@ -7,6 +7,7 @@
   padding: 0;
   box-sizing: border-box;
   color: var(--Text_Light, #fff);
+  font-family: 'Epilogue', sans-serif;
 }
 
 ul {
@@ -38,7 +39,7 @@ a {
   text-align: center;
   font-feature-settings: 'clig' off, 'liga' off;
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 22px;
   font-style: normal;
   font-weight: 400;
@@ -116,14 +117,14 @@ nav {
 }
 
 .navbar {
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: 32px; /* 200% */
 }
 .agency {
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
@@ -133,7 +134,7 @@ nav {
 .contact-btn {
   color: #fff;
   text-align: center;
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 900;
@@ -146,7 +147,7 @@ nav {
 }
 .col6-top {
   color: var(--Text_Light_Accent, #ef6d58);
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -166,7 +167,7 @@ nav {
   z-index: -9;
 }
 .col6-mid {
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 72px;
   font-style: normal;
   font-weight: 800;
@@ -177,7 +178,7 @@ nav {
 }
 .col6-bottom {
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -211,7 +212,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -234,7 +235,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -245,7 +246,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -275,13 +276,14 @@ nav {
   background: #f3d1bf;
   height: 1px;
   width: 100%;
+  margin-top: 100px;
 }
 .sec3_first {
   color: var(--Text_Dark_Accent, #ef6d58);
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H5 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -295,7 +297,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H2 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 56px;
   font-style: normal;
   font-weight: 800;
@@ -309,7 +311,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text_Big */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -322,7 +324,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -360,7 +362,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H3 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 800;
@@ -372,7 +374,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text_Big */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -384,7 +386,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H5 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -398,7 +400,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H3 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 800;
@@ -411,7 +413,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -424,20 +426,21 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: 32px; /* 200% */
   margin-bottom: 0;
   margin-top: 28px;
+  cursor: pointer;
 }
 .sec5_num {
   color: #391400;
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H1 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 72px;
   font-style: normal;
   font-weight: 800;
@@ -450,7 +453,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H1 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 72px;
   font-style: normal;
   font-weight: 800;
@@ -464,7 +467,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H4 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
@@ -484,6 +487,7 @@ nav {
   position: relative;
   display: block;
   margin: 0 auto;
+  cursor: pointer;
 }
 
 .overlay-text {
@@ -503,7 +507,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -514,7 +518,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H5 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -528,7 +532,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H3 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 800;
@@ -541,7 +545,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -554,7 +558,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H5 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -568,7 +572,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H2 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 56px;
   font-style: normal;
   font-weight: 800;
@@ -582,7 +586,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text_Big */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -602,7 +606,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -615,7 +619,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H5 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -629,7 +633,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text_Big */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -642,7 +646,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -674,7 +678,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H4 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
@@ -687,7 +691,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -710,7 +714,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H4 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
@@ -722,7 +726,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -750,7 +754,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H5 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -764,7 +768,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H2 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 56px;
   font-style: normal;
   font-weight: 800;
@@ -778,7 +782,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text_Big */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -795,7 +799,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text_Small */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
@@ -807,7 +811,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -818,7 +822,7 @@ nav {
 .explore_btn {
   color: #391400;
   text-align: center;
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 900;
@@ -836,7 +840,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H5 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -850,7 +854,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H3 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 800;
@@ -885,7 +889,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H4 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
@@ -898,7 +902,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -911,7 +915,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -932,7 +936,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H5 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -948,7 +952,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H2 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 56px;
   font-style: normal;
   font-weight: 800;
@@ -966,15 +970,18 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  line-height: 32px; /* 200% */
+  line-height: 32px;
+  cursor: pointer;
 }
-.sec11_show {
+.sec11_txt.active {
+  font-weight: bold;
   color: var(--Text_Light, #fff);
 }
+
 .sec11-spec {
   position: relative;
 }
@@ -984,7 +991,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text_Small */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
@@ -1016,7 +1023,7 @@ nav {
 .explore_more_btn {
   color: #fff;
   text-align: center;
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 900;
@@ -1026,6 +1033,7 @@ nav {
   border: 1px solid rgba(255, 255, 255, 0.3);
   padding: 18px 30px 16px 31px;
   margin-top: 64px;
+  cursor: pointer;
 }
 
 .sec_12_container {
@@ -1038,7 +1046,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H5 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1051,7 +1059,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H4 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
@@ -1060,7 +1068,7 @@ nav {
 .contact_btn {
   color: #fff;
   text-align: center;
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 900;
@@ -1072,7 +1080,10 @@ nav {
   border: none;
 }
 .image-container {
-  position: relative;
+  top: -60px !important;
+}
+.specImg {
+  height: 396px !important;
 }
 .sec_12_img2 {
   position: absolute;
@@ -1090,7 +1101,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H5 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1105,7 +1116,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H2 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 56px;
   font-style: normal;
   font-weight: 800;
@@ -1127,7 +1138,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H1 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 72px;
   font-style: normal;
   font-weight: 800;
@@ -1142,7 +1153,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H4 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
@@ -1163,7 +1174,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1175,7 +1186,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H4 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
@@ -1188,7 +1199,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1201,7 +1212,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1214,7 +1225,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H5 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1228,7 +1239,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H2 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 56px;
   font-style: normal;
   font-weight: 800;
@@ -1238,7 +1249,7 @@ nav {
   margin-top: 20px;
 }
 .sec14_box {
-  width: 270px;
+  max-width: 270px;
   height: 272px;
   border-radius: 6px;
   border: 1px solid #3a3c56;
@@ -1253,7 +1264,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H4 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
@@ -1264,7 +1275,7 @@ nav {
   color: var(--Text_Light_Gray, rgba(255, 255, 255, 0.64));
   font-feature-settings: 'clig' off, 'liga' off;
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1288,7 +1299,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H5 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1302,7 +1313,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H3 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 800;
@@ -1315,7 +1326,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text_Big */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -1328,7 +1339,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text_Small */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
@@ -1354,7 +1365,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H5 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1369,7 +1380,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H2 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 56px;
   font-style: normal;
   font-weight: 800;
@@ -1391,7 +1402,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1407,7 +1418,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H4 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
@@ -1418,7 +1429,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1451,7 +1462,7 @@ nav {
   border: none;
   color: #391400;
   text-align: center;
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 900;
@@ -1464,7 +1475,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H5 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1478,7 +1489,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H2 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 56px;
   font-style: normal;
   font-weight: 800;
@@ -1508,7 +1519,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H5 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1521,7 +1532,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H3 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 800;
@@ -1532,7 +1543,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1546,7 +1557,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1557,7 +1568,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1573,13 +1584,14 @@ nav {
   box-shadow: 0px 3px 9px 0px rgba(57, 20, 0, 0.08);
   color: #391400;
   text-align: center;
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 900;
   line-height: normal;
   text-transform: uppercase;
-  padding: 18px 32px 16px 31px;
+  width: 144px;
+  height: 48px;
   border: none;
 }
 .design_box {
@@ -1597,7 +1609,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1610,21 +1622,32 @@ nav {
   background: #ef6d58;
   color: #fff;
   text-align: center;
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 900;
   line-height: normal;
   text-transform: uppercase;
   border: none;
-  padding: 10px 20px;
+  width: 144px;
+  height: 48px;
+}
+.arrow_img {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.nav_arrow {
+  height: 48px;
+  width: 48px;
+  cursor: pointer;
 }
 .sec18_txt1 {
   color: var(--Text_Dark_Accent, #ef6d58);
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H5 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1637,7 +1660,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H3 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 800;
@@ -1648,7 +1671,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1659,7 +1682,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1672,7 +1695,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H3 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 800;
@@ -1684,7 +1707,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text_Big */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -1697,7 +1720,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1710,7 +1733,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1731,7 +1754,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1743,7 +1766,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1754,7 +1777,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H5 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1768,7 +1791,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H2 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 56px;
   font-style: normal;
   font-weight: 800;
@@ -1783,7 +1806,7 @@ nav {
   box-shadow: 0px 3px 9px 0px rgba(57, 20, 0, 0.08);
   color: #391400;
   text-align: center;
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 900;
@@ -1797,7 +1820,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text_Big */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -1810,7 +1833,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H4 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
@@ -1823,7 +1846,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1836,7 +1859,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H3 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 800;
@@ -1857,7 +1880,7 @@ nav {
   box-shadow: 0px 3px 9px 0px rgba(57, 20, 0, 0.08);
   color: #391400;
   text-align: center;
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 900;
@@ -1915,7 +1938,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H5 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1930,7 +1953,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text_Big */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -1947,7 +1970,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H2 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 56px;
   font-style: normal;
   font-weight: 800;
@@ -1961,7 +1984,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1975,7 +1998,7 @@ nav {
   box-shadow: 0px 3px 9px 0px rgba(57, 20, 0, 0.08);
   color: #391400;
   text-align: center;
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 900;
@@ -1990,7 +2013,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H5 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -2006,7 +2029,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -2024,7 +2047,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -2037,7 +2060,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -2051,7 +2074,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -2107,7 +2130,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H4 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
@@ -2120,7 +2143,7 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -2140,19 +2163,22 @@ nav {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: 32px; /* 200% */
   padding: 9px 277px 7px 16px;
 }
+.textareanew {
+  color: #28293e;
+}
 select {
   color: var(--Text_Dark_Gray, rgba(57, 20, 0, 0.64));
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -2225,7 +2251,7 @@ select {
 .submit_now_btn {
   color: #fff;
   text-align: center;
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 900;
@@ -2300,7 +2326,7 @@ select {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H4 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
@@ -2311,7 +2337,7 @@ select {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -2388,7 +2414,7 @@ select {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* Text */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -2402,7 +2428,7 @@ select {
   font-feature-settings: 'clig' off, 'liga' off;
 
   /* H3 */
-  font-family: Epilogue;
+  font-family: 'Epilogue', sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 800;
@@ -2443,9 +2469,19 @@ select {
 .images_inside {
   display: flex;
 }
+.social_icon {
+  height: 48px;
+}
+
 @media screen and (max-width: 767px) {
   .sec_12_container {
-    height: 900px;
+    height: 1000px;
+  }
+  .image-container {
+    top: 85px !important;
+  }
+  .specImg {
+    height: 317px !important;
   }
   .mid_img {
     width: 329px;
@@ -2632,6 +2668,7 @@ select {
   .sec_12_container {
     height: 900px;
   }
+
   .section-12 {
     padding-top: 144px;
   }
@@ -2937,5 +2974,23 @@ select {
     display: flex;
     gap: 100px;
     overflow-x: scroll;
+  }
+}
+@media screen and (max-width: 990px) {
+  .img_spec {
+    max-width: 470px;
+    width: 100%;
+  }
+}
+
+@media (max-width: 574.98px) {
+  .image-container {
+    top: -15px !important;
+  }
+}
+
+@media (max-width: 393px) {
+  .image-container {
+    top: -47px !important;
   }
 }
